@@ -1,0 +1,9 @@
+History of game number:1
+Left Player get point when time was: 12:4:24. Score was: 1:0.
+Left Player get point when time was: 12:4:29. Score was: 2:0.
+History of game number:2
+Left Player get point when time was: 12:4:36. Score was: 1:0.
+Left Player get point when time was: 12:4:37. Score was: 2:0.
+Right Player get point when time was: 12:4:49. Score was: 2:1.
+Left Player get point when time was: 12:4:56. Score was: 3:1.
+Right Player get point when time was: 12:5:0. Score was: 3:2.
