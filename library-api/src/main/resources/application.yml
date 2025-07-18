@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/movie_recs?currentSchema=library_api,public
+    username: postgres
+    password: Killer1223
+  jpa:
+    hibernate:
+      ddl-auto: none   # или validate
+    properties:
+      hibernate.default_schema: library_api
